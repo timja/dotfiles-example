@@ -1,0 +1,5 @@
+config/configstore
+.idea
+config/zsh/.zcompdump
+config/zsh/.zprofile
+config/zsh/.zsh_history

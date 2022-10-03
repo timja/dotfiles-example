@@ -1,0 +1,54 @@
+- shell:
+    # taps
+    - brew tap homebrew/cask-versions
+    # dependencies
+    # command line tools
+    - brew install ack
+    - brew install asdf
+    - brew install azure-cli
+    - brew install bash
+    - brew install ctop
+    - brew install curl
+    - brew install direnv
+    - brew install fig
+    - brew install fluxcd/tap/flux
+    - brew install gettext
+    - brew install gh
+    - brew install git
+    - brew install git-extras
+    - brew install gradle
+    - brew install htop
+    - brew install jq
+    - brew install jump
+    - brew install kubectx
+    - brew install kubernetes-cli
+    - brew install kubernetes-helm
+    - brew install less
+    - brew install mas
+    - brew install nmap
+    - brew install node
+    - brew install openssh
+    - brew install openssl
+    - brew install postgresql
+    - brew install pre-commit
+    - brew install python
+    - brew install readline
+    - brew install ripgrep
+    - brew install starship
+    - brew install watch
+    - brew install wget
+    - brew install xz
+    # desktop tools
+    - brew install --cask docker
+    - brew install --cask firefox
+    - brew install --cask google-chrome
+    - brew install --cask homebrew/cask-fonts/font-hack
+    - brew install --cask iterm2
+    - brew install --cask jetbrains-toolbox
+    - brew install --cask keepingyouawake
+    - brew install --cask maccy
+    - brew install --cask rectangle
+    - brew install --cask slack
+    - brew install --cask spotify
+    - brew install --cask visual-studio-code
+    - brew install --cask zoom
