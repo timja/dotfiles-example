@@ -51,6 +51,11 @@ You need to add your SSH key to your ssh-agent with `ssh-add $ssh-key`.
 
 If you configured the GitHub CLI to use SSH auth in the previous step you can use that for your signing key as well, just add it at [SSH and GPG keys](https://github.com/settings/keys).
 
+### Casks
+
+Make sure you open all the apps once from the casks section.
+Rectangle and maccy will need accessibility permissions to work.
+
 ### Advanced usage
 
 It's recommended that you fork the repository and add your own files, config and applications.
