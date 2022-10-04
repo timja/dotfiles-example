@@ -12,6 +12,7 @@
     - brew install direnv
     - brew install fig
     - brew install fluxcd/tap/flux
+    - brew install fzf
     - brew install gettext
     - brew install gh
     - brew install git
