@@ -20,6 +20,7 @@
     - brew install git
     - brew install git-extras
     - brew install gradle
+    - brew install helm
     - brew install htop
     - brew install jq
     - brew install jump
@@ -29,6 +30,7 @@
     - brew install kubecm
     - brew install kubectx
     - brew install kubelogin
+    - brew install kustomize
     - brew install less
     - brew install mas
     - brew install nmap
