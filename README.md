@@ -11,7 +11,7 @@ Be up and running in minutes rather than having to set all these tools up manual
 Clone this repository
 
 ```
-git clone https://github.com/timja/dotfiles-example.git
+git clone https://github.com/darren221980/dotfiles-example
 ```
 
 Review the apps in `install.conf.yaml` and add any extras you want.
