@@ -6,6 +6,8 @@
     - brew install ack
     - brew install asdf
     - brew install azure-cli
+    - brew install awscli
+    - brew install aztfy
     - brew install bash
     - brew install ctop
     - brew install curl
@@ -24,12 +26,17 @@
     - brew install kubectx
     - brew install kubernetes-cli
     - brew install kubernetes-helm
+    - brew install kubecm
+    - brew install kubectx
+    - brew install kubelogin
     - brew install less
     - brew install mas
     - brew install nmap
     - brew install node
     - brew install openssh
     - brew install openssl
+    - brew install pluto
+    - brew install powerlevel10k
     - brew install postgresql
     - brew install pre-commit
     - brew install python
@@ -39,6 +46,10 @@
     - brew install watch
     - brew install wget
     - brew install xz
+    - brew install terraform
+    - brew install yq
+    - brew install zsh-completions
+    - brew install zsh-syntax-highlighting
     # desktop tools
     - brew install --cask docker
     - brew install --cask firefox
@@ -53,3 +64,4 @@
     - brew install --cask spotify
     - brew install --cask visual-studio-code
     - brew install --cask zoom
+    - brew install --cask vlc
